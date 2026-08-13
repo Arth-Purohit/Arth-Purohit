@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Arth Purohit 👋</h1>
-<h3 align="center">Aspiring Data Analyst — Credit Risk, Fraud & Financial Analytics</h3>
+<h3 align="center"> Data Analyst — Credit Risk, Fraud & Financial Analytics</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arth-purohit-aa07b9242/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
